@@ -1,0 +1,23 @@
+body {
+	color: #2f8052;
+	margin: 0 auto;
+	padding: 10px;
+	-webkit-columns: 300px 5;
+	   -moz-columns: 300px 5;
+	        columns: 300px 5;
+}
+
+h1 {
+	font-size: 30px;
+	
+}
+
+h2 {
+	font-size: 24px;
+}
+
+.box {
+	a {
+		padding: 16px;
+	};
+}
